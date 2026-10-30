@@ -2,3 +2,4 @@ Hello GitHub!
 This is my first GitHub project.
 I am learning Git and GitHub.
 Today I learned how to edit files.
+I am practice Git branches.
